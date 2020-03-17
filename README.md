@@ -14,7 +14,7 @@ This repo has two dir
 5. Run programs using any python IDE.
 
 #Want to contribute with us : 
-We are open for all so feel free to contribute with us :)
-Mail your Github ID to <contact@codezila.org>
+    We are open for all so feel free to contribute with us :)
+    Mail your Github ID to <contact@codezila.org>
 
 www.codezila.org
