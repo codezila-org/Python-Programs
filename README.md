@@ -17,4 +17,4 @@ This repo has two dir
 We are open for all so feel free to contribute with us :)
 Mail your Github ID to <contact@codezila.org>
 
-<www.codezila.org>
+www.codezila.org
