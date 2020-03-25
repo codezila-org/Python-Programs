@@ -1,5 +1,5 @@
 # Python Program to find the area of triangle
-# * Written By Codezila.org at 15-03-2020 05:28PM (IST
+# * Written By Codezila.org at 15-03-2020 05:28PM (IST)
 a = 5
 b = 6
 c = 7
