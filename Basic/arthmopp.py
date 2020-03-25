@@ -1,4 +1,5 @@
 # * Written By Codezila.org at 16-03-2020 11:08PM (IST)
+#The arithmetic operations are performed by calculator where we can perform addition, subtraction, multiplication and division.
 # Store input numbers:  
 num1 = input('Enter first number: ')  
 num2 = input('Enter second number: ')  
